@@ -42,7 +42,7 @@ Este projeto resolve isso ao:
 
 Acesse o protótipo interativo pelo link abaixo:
 
-👉 https://www.figma.com/proto/Pdlbv8uCUayfkiASiAJMYn/Untitled?node-id=0-1&t=h3KKPCPiQu0dd9ej-1
+👉 [https://www.figma.com/proto/Pdlbv8uCUayfkiASiAJMYn/Untitled?node-id=0-1&t=h3KKPCPiQu0dd9ej-1](https://www.figma.com/proto/XTBWhRqosbkE0LNaqsdJJM/Wireframe-projeto-Interface?node-id=2-15&p=f&t=hgL69plQE9tn73C1-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A15)
 
 ## 🖌️ Design e UX
 
